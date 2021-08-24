@@ -9,5 +9,3 @@ tabela lige, podaci igraca(prosecni poeni, asistencije i skokovi), tabela najbol
 tabela all-star tima(cine je igraci sa najboljim koeficijentom uspesnosti), takodje se menja i tabela rasporeda
 utakmica.
 
-POTREBNO JE DA SE UCITA SKRIPTA BAZE PODATAKA "laravelprojekat.sql".
-Za izradu ovog projekta koriscena je MySql baza podataka.
